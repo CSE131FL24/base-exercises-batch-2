@@ -4,8 +4,12 @@ import java.awt.Color;
 
 import edu.princeton.cs.introcs.StdDraw;
 
-public class MovingBall {
+public class E05MovingBall {
 
+	/*
+	 * Exercise: Read and run the code below and make sure you
+	 * understand how it works before proceeding.
+	 */
 	public static void main(String[] args) {
 		double ballX = 0.0;
 		
@@ -27,7 +31,9 @@ public class MovingBall {
 			StdDraw.point(ballX, 0.5);
 			
 			//pause to make the animation smooth
-			StdDraw.show(10);
+			StdDraw.show();
+			StdDraw.pause(10);
+			
 		}
 	}
 }

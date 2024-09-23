@@ -2,8 +2,12 @@ package module4._02graphics;
 
 import edu.princeton.cs.introcs.StdDraw;
 
-public class MouseDemo {
+public class E03MouseDemo {
 
+	/*
+	 * Exercise: Read and run the code below and make sure you
+	 * understand how it works before proceeding.
+	 */
 	public static void main(String[] args) {
 		
 		while(true) { //loop forever

@@ -4,8 +4,12 @@ import java.awt.Color;
 
 import edu.princeton.cs.introcs.StdDraw;
 
-public class GraphicsDemo {
+public class E01GraphicsDemo {
 
+	/*
+	 * Exercise: use the StdDraw API to draw the requested
+	 * items below.
+	 */
 	public static void main(String[] args) {
 		//Using a built-in color
 		StdDraw.setPenColor(Color.GREEN);

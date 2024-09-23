@@ -6,8 +6,13 @@ import java.util.Scanner;
 
 import javax.swing.JFileChooser;
 
-public class Stats {
+public class E01Stats {
 
+	/*
+	 * Exercise: The below code reads in a series of doubles from a file and prints them.
+	 * Modify this code to find the maximum, minimum, average, and count of the values
+	 * read in from the file.
+	 */
 	public static void main(String[] args) throws FileNotFoundException {
 		
 		//Code for setting up Scanner with a file

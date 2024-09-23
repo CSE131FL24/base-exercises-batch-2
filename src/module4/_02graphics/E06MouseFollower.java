@@ -2,10 +2,18 @@ package module4._02graphics;
 
 import edu.princeton.cs.introcs.StdDraw;
 
-public class MouseFollower {
+public class E06MouseFollower {
 
-public static void main(String[] args) {
-		
+	/*
+	 * Exercise: Use the to draw a point on the canvas that follows the mouse. 
+	 * To do this, you will need to acquire the coordinates of the mouse, 
+	 * then draw something at that point.
+	 * 
+	 * Once you get it working, experiment with the timings to see
+	 *  if you can get the image to "lag" behind the mouse.
+	 */
+	public static void main(String[] args) {
+
 		StdDraw.enableDoubleBuffering();
 		while (true) {
 			StdDraw.clear();
@@ -13,7 +21,7 @@ public static void main(String[] args) {
 			// Render one frame of your animation below here
 			//
 
-			
+
 			//  
 			// End of your frame
 			//

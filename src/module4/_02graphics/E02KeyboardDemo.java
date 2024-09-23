@@ -2,8 +2,12 @@ package module4._02graphics;
 
 import edu.princeton.cs.introcs.StdDraw;
 
-public class KeyboardDemo {
+public class E02KeyboardDemo {
 
+	/*
+	 * Exercise: Read and run the code below and make sure you
+	 * understand how it works before proceeding.
+	 */
 	public static void main(String[] args) {
 		
 		//Wait until the user presses a key, checking periodically

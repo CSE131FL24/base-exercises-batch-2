@@ -2,8 +2,12 @@ package module4._02graphics;
 
 import edu.princeton.cs.introcs.StdDraw;
 
-public class WaitPoint {
+public class E04WaitPoint {
 
+	/*
+	 * Exercise: Use the StdDraw API to complete the code one
+	 * step at a time.
+	 */
 	public static void main(String[] args) {
 		// wait for the mouse to be pressed and released
 
